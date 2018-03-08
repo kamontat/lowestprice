@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  lowestprice
 //
 //  Created by kamontat chantrachirathumrong on 21/2/18.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ResultViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
